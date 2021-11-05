@@ -43,7 +43,7 @@ import {
   provinceOptions,
   cityOptions,
   countryOptions
-} from './assets/js/cn-city'
+} from 'cn-city-select-options'
 
 export default {
   name: 'App',
